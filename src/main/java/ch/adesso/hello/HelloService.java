@@ -3,7 +3,7 @@ package ch.adesso.hello;
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
 
-@Path("/")
+@Path("/hello")
 public class HelloService {
 
     @GET
